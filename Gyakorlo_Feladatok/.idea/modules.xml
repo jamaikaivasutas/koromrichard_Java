@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Gyakorlo_Feladatok.iml" filepath="$PROJECT_DIR$/.idea/Gyakorlo_Feladatok.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Main/Main.iml" filepath="$PROJECT_DIR$/Main/Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Szorzotabla/Szorzotabla.iml" filepath="$PROJECT_DIR$/Szorzotabla/Szorzotabla.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyakorlatiJegy/gyakorlatiJegy.iml" filepath="$PROJECT_DIR$/gyakorlatiJegy/gyakorlatiJegy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primaNyeremenyjatek/primaNyeremenyjatek.iml" filepath="$PROJECT_DIR$/primaNyeremenyjatek/primaNyeremenyjatek.iml" />
+    </modules>
+  </component>
+</project>
